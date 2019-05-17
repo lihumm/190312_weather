@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    list-style: none;
+}
+
+.container {
+    width: 450px;
+    height: 1000px;
+    background-color: #fff;
+    margin: 10px auto;
+    position: relative;
+    overflow: hidden;
+    border-radius: 5px;
+    box-shadow:0px 0px 10px rgba(0,0,0,0.5) ;
+}
+
+.w {
+    margin: 0 auto;
+    background-color: pink;
+}
+
+.header {
+
+    margin-bottom: 10px;
+    padding-bottom: 5px;
+    border-bottom: 1px solid #eee;
+}
+
+.headerText {
+    text-align: center;
+}
+
+.cssbe6388d2919ac6 {
+    font-size: 26px;
+}
+
+.headerInput {
+    /*position: absolute;
+            left: 50%;
+            margin-left:-80px;*/
+    margin: 10px 118px;
+}
+
+.lists {
+    padding: 20px;
+
+    background-color: #e0e0ec;
+}
